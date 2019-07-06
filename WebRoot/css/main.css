@@ -1,0 +1,39 @@
+
+
+/* module */
+.m,.mt,.mc,.mb{overflow:hidden;zoom:1;}
+.mt .extra{float:right;}
+.m{margin-bottom:10px;}
+.lh { overflow:hidden; zoom:1; }
+.lh li, .lh dl, .lh .item { float:left; }
+.ld { position:relative; zoom:1; }
+.ld s, .ld b, .ld .block { position:absolute; overflow:hidden; }
+
+#shortcut,
+#shortcut .w{height:30px;background-color:#efefef;background-repeat:repeat-x;}
+
+
+/** ------------------下面样式-------------- */
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, span, a, blockquote, th {margin:0;padding:0;}
+body {font-family:tahoma, Arial, sans-serif; font-size:12px; color:#333333; }
+h1, h2, h3, h4, h5, h6 {font-size:100%; font-weight:normal;}
+ol, ul {list-style-image:none;list-style-position:outside;list-style-type:none;}
+li {list-style:none;}
+img, fieldset {border:0;}
+
+
+/**********----------- 主页面右侧 -------------**********/
+.sales-queue { padding:10px 0 5px 0; border:#d9d9d9 1px solid; border-top:none; overflow:hidden; zoom:1;}
+.goods-queue3 { width:750px; margin-left:7px;}
+.goods-queue3 li { float:left; display:inline; width:150px; height:170px; padding:15px; margin:0 3px; overflow:hidden;}
+.goods-queue3 li h2 { height:36px; line-height:18px; margin-bottom:5px; overflow:hidden;}
+.goods-queue3 .item-des dt img { border:#f2f2f2 1px solid; padding:3px; background-color:#ffffff; overflow:hidden;}
+.goods-queue3 .item-des dd { margin-top:5px;}
+.goods-queue3 .item-des dd s { color:#b3b3b3;font-family:Arial; margin-right:10px; text-decoration:none;}/*2011-05-30*/
+.goods-queue3 .item-des dd strong { color:#e50000; font-family:Arial; font-size:15px;}
+.goods-queue3 li.selbgc1 { background-color:#edf7e3; border:#b8e5a1 1px solid; padding:4px; width:160px; height:190px; overflow:hidden;}
+.goods-queue3 li.selbgc1 dl { background-color:#ffffff; width:140px; height:170px; padding:10px; overflow:hidden;}
+.goods-queue3 li.selbgc1 dt img { border:none; padding:4px; overflow:hidden;}
+
+
+

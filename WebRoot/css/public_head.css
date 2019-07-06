@@ -1,0 +1,45 @@
+@CHARSET "UTF-8";
+
+body{
+
+}
+
+#head_dind{
+	margin-right:80px;
+}
+
+.head_a2{
+	text-decoration:none;
+	color:white;
+	margin-left:30px;
+}
+
+#head_div1{
+	font:13px 宋体;
+	background-color:#efefef;
+	height:30px;
+	line-height:30px;
+	text-align:right;
+}
+
+
+
+#head_div3{
+	text-align:center;
+}
+
+#head_div2{
+	background:#c3292a;
+	height:30px;
+	font:12px 微软雅黑;
+	line-height:30px;
+	text-align:center;
+}
+
+#head_div2 a{
+	font:12px 微软雅黑;
+}
+
+#head_login{
+	margin-left:150px;
+}

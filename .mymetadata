@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Fosu_Project"
+  id="myeclipse.1531725985099"
+  context-root="/Fosu_Project"
+  j2ee-spec="5.0"
+  archive="Fosu_Project.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
